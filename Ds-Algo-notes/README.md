@@ -7,6 +7,10 @@
 - Sorting algorithms
 - Data Structures
 
+> Complexity analysis
+
+- time complexity analysis
+- space complexity analysis
 
 > Data Structures
 

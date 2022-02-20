@@ -37,5 +37,71 @@ Selection of which these design patterns to use is what matters
 
 
 Design Patterns are conceptual  
+can be applied in software design to improve flexiblity and reusability  
+
+
+
+
+Adapter pattern  
+Anti-Pattern  
+Behavioural patterns  
+Chain of Responsibility pattern  
+Command pattern  
+Composite pattern  
+Creational pattern  
+Decorator pattern  
+Design pattern  
+Facade pattern  
+Factory Method pattern  
+Mediator pattern  
+MVC pattern  
+Singleton pattern  
+State pattern  
+structural patterns  
+
+
+Major Design Principles  
+- Decomposition  
+- Generalization  
+UML class diagrams  
+Relationships  
+- Association  
+- Aggregation  
+- Composition  
+- Inheritance  
+- Interface  
+
+Pattern language: a collection of patterns that are related to a certain problem space  
+ex- gaming software and accounting software can have very different pattern languages  
+
+
+>> Creational patterns: deals with how creating new objects is handled  
+
+languages without the concept of classes encorages to clone and add to existing objects, for ex javascript not contain classes to be instantiated, objects are instead cloned and expanded to meet the pupose of those particular instances called prototypes  
+
+
+>> Structural patterns: deals with how objects are connected to each other(relationships), how subclasses and classes interact through inheritance  
+
+
+>> Behavioural pattern: deals with overall goal and purpose of each objects  
+
+
+When designing systems some patterns can be more resource intensive with more memory or processing  
+
+
+
+
+>> Singleton pattern: its a creational pattern that describes a way to create an object  
+- refers to having only one object of a class  
+- we need not have multiple preferences object for an app, since that would lead to conflicts or inconsistencies, similar is the case with print queue of a printer    
+- enforces one and only one object of a Singleton class  
+- the singleton object is globally accessible  
+- there is a need to prevent errors arising from multiple objects of a Singleton class being instantiated in larger projects with multiple developers  
+- So to solve this, we write this rule down into the class itself, so that its only possible to create one and only one singleton class  
+- lazy creation: the object is not created until its truly needed  
+- tradeoff: if multiple computing threads are running, it can cause issues by the threads trying to access the shared single object  
+- goal: provide global access to a class thats restricted to one instance  
+- implementation: a private constructor with a public method that instantiates the class if its not already instantiated  
+
 
 

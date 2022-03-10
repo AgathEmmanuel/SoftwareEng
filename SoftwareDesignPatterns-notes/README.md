@@ -105,3 +105,20 @@ When designing systems some patterns can be more resource intensive with more me
 
 
 
+>> Factory method pattern: its also a type of creational pattern  
+- factory object  
+- in oops factories are used for creating objects  
+- making it easier to change and maintain software  
+- concrete instantiation: act of instantiating a class to create an object of a specific type  
+- a factory object whose role is to create product objects of a particular type  
+- factory object cuts down redundant code when multiple clients are instantiating same set of classes  
+- specialized factories by having sub-classes of factory class can also be created  
+- generaliztion is encouraged, coding to an interface not an implementation  
+- Factory method pattern does creation of specifc types of objects in a separate way wrt factory object pattern  
+- instead of using factory object to create objects, factory method uses separate methods in the same class to create the objects  
+- factory method defines an interface for creating objects by leting subclass decide which class to instantiate  
+- here the subclasses decide how objects are made  
+
+
+
+

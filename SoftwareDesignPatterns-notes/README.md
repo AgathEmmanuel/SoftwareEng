@@ -122,3 +122,7 @@ When designing systems some patterns can be more resource intensive with more me
 
 
 
+
+
+
+

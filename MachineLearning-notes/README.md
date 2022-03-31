@@ -57,9 +57,12 @@ Inference
 
 ## Links
 
-- [https://medium.com/analytics-vidhya/big-data-ml-pipeline-using-aws-533dc9b9d774](https://medium.com/analytics-vidhya/big-data-ml-pipeline-using-aws-533dc9b9d774)
-- [https://www.xenonstack.com/blog/machine-learning-pipeline](https://www.xenonstack.com/blog/machine-learning-pipeline)
-- [https://www.kdnuggets.com/2018/05/general-approaches-machine-learning-process.html](https://www.kdnuggets.com/2018/05/general-approaches-machine-learning-process.html)
-- [https://www.analyticsvidhya.com/blog/2021/04/steps-to-complete-a-machine-learning-project/](https://www.analyticsvidhya.com/blog/2021/04/steps-to-complete-a-machine-learning-project/)
-- [https://www.eksworkshop.com/advanced/420_kubeflow/distributed/](https://www.eksworkshop.com/advanced/420_kubeflow/distributed/)
-- [https://www.eksworkshop.com/010_introduction/](https://www.eksworkshop.com/010_introduction/)
+[https://medium.com/analytics-vidhya/big-data-ml-pipeline-using-aws-533dc9b9d774](https://medium.com/analytics-vidhya/big-data-ml-pipeline-using-aws-533dc9b9d774)
+[https://www.xenonstack.com/blog/machine-learning-pipeline](https://www.xenonstack.com/blog/machine-learning-pipeline)
+[https://www.kdnuggets.com/2018/05/general-approaches-machine-learning-process.html](https://www.kdnuggets.com/2018/05/general-approaches-machine-learning-process.html)
+[https://www.analyticsvidhya.com/blog/2021/04/steps-to-complete-a-machine-learning-project/](https://www.analyticsvidhya.com/blog/2021/04/steps-to-complete-a-machine-learning-project/)
+[https://www.eksworkshop.com/advanced/420_kubeflow/distributed/](https://www.eksworkshop.com/advanced/420_kubeflow/distributed/)
+[https://www.eksworkshop.com/010_introduction/](https://www.eksworkshop.com/010_introduction/)
+[https://www.javatpoint.com/control-system-tutorial](https://www.javatpoint.com/control-system-tutorial)  
+[https://www.javatpoint.com/data-mining](https://www.javatpoint.com/data-mining)  
+[https://www.javatpoint.com/data-warehouse](https://www.javatpoint.com/data-warehouse)  

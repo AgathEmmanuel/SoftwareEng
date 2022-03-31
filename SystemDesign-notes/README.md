@@ -209,5 +209,13 @@ Algorithm for place locator
 [https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7](https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)  
 [https://towardsdatascience.com/ace-the-system-interview-design-a-chat-application-3f34fd5b85d0](https://towardsdatascience.com/ace-the-system-interview-design-a-chat-application-3f34fd5b85d0)  
 [https://arpitbhayani.me/blogs](https://arpitbhayani.me/blogs)  
+[https://www.javatpoint.com/aws-sqs](https://www.javatpoint.com/aws-sqs)  
+[https://www.javatpoint.com/aws-kinesis](https://www.javatpoint.com/aws-kinesis)  
+[https://www.javatpoint.com/aws-swf](https://www.javatpoint.com/aws-swf)  
+[https://www.javatpoint.com/selenium-tutorial](https://www.javatpoint.com/selenium-tutorial)  
+[https://aws.amazon.com/msk/what-is-kafka/](https://aws.amazon.com/msk/what-is-kafka/)  
+[https://aws.amazon.com/blogs/big-data/best-practices-for-running-apache-kafka-on-aws/](https://aws.amazon.com/blogs/big-data/best-practices-for-running-apache-kafka-on-aws/)  
+[https://aws.amazon.com/msk/](https://aws.amazon.com/msk/)  
+[Apache Kafka for Beginners](https://youtube.com/playlist?list=PLt1SIbA8guusxiHz9bveV-UHs_biWFegU)  
 
 

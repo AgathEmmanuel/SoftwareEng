@@ -728,3 +728,28 @@ Network Address Translation
 
 
 ## Web securitk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Links  
+
+[https://www.javatpoint.com/cloud-computing-tutorial](https://www.javatpoint.com/cloud-computing-tutorial)  
+[https://www.javatpoint.com/ethical-hacking-tutorial](https://www.javatpoint.com/ethical-hacking-tutorial)  
+[https://www.javatpoint.com/computer-network-tutorial](https://www.javatpoint.com/computer-network-tutorial)  
+[https://www.javatpoint.com/cyber-security-tutorial](https://www.javatpoint.com/cyber-security-tutorial)  
+
+

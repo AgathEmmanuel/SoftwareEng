@@ -1,10 +1,56 @@
 # SystemDesign-notes
 
-#### links
 
-https://www.freecodecamp.org/news/systems-design-for-interviews/
-https://github.com/donnemartin/system-design-primer
-https://github.com/donnemartin/interactive-coding-challenges
+
+
+## Apache Kafka  
+
+[Apache Kafka for Biginers](https://youtube.com/playlist?list=PLt1SIbA8guusxiHz9bveV-UHs_biWFegU)  
+
+apache kafka crash course  
+[https://youtu.be/R873BlNVUB4](https://youtu.be/R873BlNVUB4)  
+[https://github.com/hnasr/javascript_playground/tree/master/kafka](https://github.com/hnasr/javascript_playground/tree/master/kafka)  
+
+```
+docker run --name zookeeper -p 2181:2181 zookeeper  
+
+
+docker run --name kafka -p 9092:9092 
+-e KAFKA_ZOOKEEPER_CONNECT=<your machine name on which zookeeper is running>:2181 kafka 
+-e KAFKA_ADVERTISED_LISTENERS=PLAINTEXT://<your machine name on which zookeeper is running>:9092
+-e KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR=1 confluentic/cp-kafka  
+
+
+You need to spicy the address of you zookeerper to kafka
+When we do kafka we need to expose the address of the broker to your clients producer and consumer,
+for that you need to tell kafka broker your address, because you can have multiple listeners in one
+kafka cluster 
+Kafka supports ssl and plaintext communication
+Kafka by default spin up 3 instances, so you need to specifically mention the no of offsets
+
+
+Start a nodejs project
+
+initialize the project
+
+npm init -y 
+
+
+npm install kafakjs
+
+files:
+- topic.js
+- producer.js
+- consumer.js
+
+```
+
+## RabbitMQ
+
+RabbitMQ Crash Course  
+[https://youtu.be/Cie5v59mrTg](https://youtu.be/Cie5v59mrTg)  
+
+
 
 #### topics  
 
@@ -205,6 +251,9 @@ Algorithm for place locator
 # Links  
 
 
+[Backend Engineering Bigginer](https://youtube.com/playlist?list=PLQnljOFTspQUNnO4p00ua_C5mKTfldiYT)  
+[Backend Engineering Intermediate](https://youtube.com/playlist?list=PLQnljOFTspQWGuRmwojJ6LiV0ejm6eOcs)  
+[Backend Engineering Advanced](https://youtube.com/playlist?list=PLQnljOFTspQUybacGRk1b_p13dgI-SmcZ)  
 
 [https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7](https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)  
 [https://towardsdatascience.com/ace-the-system-interview-design-a-chat-application-3f34fd5b85d0](https://towardsdatascience.com/ace-the-system-interview-design-a-chat-application-3f34fd5b85d0)  
@@ -217,5 +266,6 @@ Algorithm for place locator
 [https://aws.amazon.com/blogs/big-data/best-practices-for-running-apache-kafka-on-aws/](https://aws.amazon.com/blogs/big-data/best-practices-for-running-apache-kafka-on-aws/)  
 [https://aws.amazon.com/msk/](https://aws.amazon.com/msk/)  
 [Apache Kafka for Beginners](https://youtube.com/playlist?list=PLt1SIbA8guusxiHz9bveV-UHs_biWFegU)  
-
-
+[https://www.freecodecamp.org/news/systems-design-for-interviews/](https://www.freecodecamp.org/news/systems-design-for-interviews/)  
+[https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)  
+[https://github.com/donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)  

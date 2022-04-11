@@ -269,3 +269,6 @@ Algorithm for place locator
 [https://www.freecodecamp.org/news/systems-design-for-interviews/](https://www.freecodecamp.org/news/systems-design-for-interviews/)  
 [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)  
 [https://github.com/donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)  
+[Publish-Subscribe Architecture (Explained by Example)](https://youtu.be/O1PgqUqZKTA)  
+[RabbitMQ Crash Course](https://youtu.be/Cie5v59mrTg)  
+

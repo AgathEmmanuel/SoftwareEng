@@ -272,3 +272,7 @@ Algorithm for place locator
 [Publish-Subscribe Architecture (Explained by Example)](https://youtu.be/O1PgqUqZKTA)  
 [RabbitMQ Crash Course](https://youtu.be/Cie5v59mrTg)  
 
+[https://medium.com/@narengowda/netflix-system-design-dbec30fede8d](https://medium.com/@narengowda/netflix-system-design-dbec30fede8d)  
+[Live Streaming Architecture](https://youtu.be/RvsaosnEHWc)  
+[https://nordicapis.com/whats-the-difference-between-event-brokers-and-message-queues/](https://nordicapis.com/whats-the-difference-between-event-brokers-and-message-queues/)  
+

@@ -52,6 +52,9 @@ func main() {
     stack.Push(1)
     stack.Push(2)
     stack.Push(3)
+    stack.Push(3)
+    stack.Push(399)
+    stack.Push(399)
 
     fmt.Println("Printng the stack:")    
     stack.Print() // Print the stack

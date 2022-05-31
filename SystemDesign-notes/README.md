@@ -278,3 +278,6 @@ Algorithm for place locator
 
 [https://www.tecmint.com/open-source-caching-tools-for-linux/](https://www.tecmint.com/open-source-caching-tools-for-linux/)  
 
+[https://medium.com/@narengowda/designing-the-caching-system-e42c6938df6a](https://medium.com/@narengowda/designing-the-caching-system-e42c6938df6a)  
+[https://aws.amazon.com/elasticache/](https://aws.amazon.com/elasticache/)  
+

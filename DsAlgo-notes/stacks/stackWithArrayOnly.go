@@ -76,5 +76,6 @@ func main() {
 	fmt.Println(sta.IsEmpty())
 	fmt.Println(sta.IsFull())
 
+
 }
 

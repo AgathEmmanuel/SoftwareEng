@@ -101,9 +101,21 @@
 [https://stackoverflow.com/questions/28541609/looking-for-reasonable-stack-implementation-in-golang](https://stackoverflow.com/questions/28541609/looking-for-reasonable-stack-implementation-in-golang)  
 
 [https://pkg.go.dev/github.com/golang-collections/collections/stack](https://pkg.go.dev/github.com/golang-collections/collections/stack)  
+
+
+
+
 [https://pkg.go.dev/github.com/golang-collections/collections](https://pkg.go.dev/github.com/golang-collections/collections)  
+[https://github.com/golang-collections/collections/blob/604e922904d3/queue/queue.go](https://github.com/golang-collections/collections/blob/604e922904d3/queue/queue.go)  
+[https://pkg.go.dev/std](https://pkg.go.dev/std)  
 
 
+
+
+[https://github.com/golang-collections](https://github.com/golang-collections)  
+
+
+[Go Golang Tutorial #6 - The Standard Library](https://youtu.be/BoooHY57RXw)  
 
 
 [https://www.golangbootcamp.com/book/concurrency](https://www.golangbootcamp.com/book/concurrency)  

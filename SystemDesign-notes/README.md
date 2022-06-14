@@ -281,3 +281,6 @@ Algorithm for place locator
 [https://medium.com/@narengowda/designing-the-caching-system-e42c6938df6a](https://medium.com/@narengowda/designing-the-caching-system-e42c6938df6a)  
 [https://aws.amazon.com/elasticache/](https://aws.amazon.com/elasticache/)  
 
+
+
+[https://www.cs.utah.edu/~germain/PPS/Topics/interfaces.html](https://www.cs.utah.edu/~germain/PPS/Topics/interfaces.html)  

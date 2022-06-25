@@ -153,3 +153,35 @@
 
 
 [https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples/](https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples/)  
+
+
+
+
+### python  
+
+[https://www.geeksforgeeks.org/pygorithm-module-in-python/](https://www.geeksforgeeks.org/pygorithm-module-in-python/)  
+[https://www.geeksforgeeks.org/python-data-structures-and-algorithms/](https://www.geeksforgeeks.org/python-data-structures-and-algorithms/)  
+[https://www.geeksforgeeks.org/python-data-structures/](https://www.geeksforgeeks.org/python-data-structures/)  
+[https://github.com/keon/algorithms](https://github.com/keon/algorithms)  
+
+
+[https://docs.python.org/3/tutorial/classes.html#private-variables](https://docs.python.org/3/tutorial/classes.html#private-variables)  
+[https://towardsdatascience.com/optimizing-memory-usage-in-python-applications-f591fc914df5](https://towardsdatascience.com/optimizing-memory-usage-in-python-applications-f591fc914df5)  
+[https://www.freecodecamp.org/news/how-to-build-scalable-apps-in-python/](https://www.freecodecamp.org/news/how-to-build-scalable-apps-in-python/)  
+[https://pythonbasics.org/webserver/](https://pythonbasics.org/webserver/)  
+[https://pavolkutaj.medium.com/exception-handling-of-python-requests-module-73dcdeb42aa4](https://pavolkutaj.medium.com/exception-handling-of-python-requests-module-73dcdeb42aa4)  
+[https://fastapi.tiangolo.com/advanced/response-change-status-code/#use-a-response-parameter](https://fastapi.tiangolo.com/advanced/response-change-status-code/#use-a-response-parameter)  
+[https://stackoverflow.com/questions/43254103/python-requests-return-504-in-localhost](https://stackoverflow.com/questions/43254103/python-requests-return-504-in-localhost)  
+
+
+
+
+
+
+[https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)  
+[https://hackernoon.com/5-to-23-patterns-to-ace-any-coding-interview](https://hackernoon.com/5-to-23-patterns-to-ace-any-coding-interview)  
+
+
+
+[https://www.geeksforgeeks.org/python-collections-module/](https://www.geeksforgeeks.org/python-collections-module/)  
+

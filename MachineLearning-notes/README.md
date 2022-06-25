@@ -66,3 +66,12 @@ Inference
 [https://www.javatpoint.com/control-system-tutorial](https://www.javatpoint.com/control-system-tutorial)  
 [https://www.javatpoint.com/data-mining](https://www.javatpoint.com/data-mining)  
 [https://www.javatpoint.com/data-warehouse](https://www.javatpoint.com/data-warehouse)  
+
+
+
+[https://analyticsindiamag.com/mlops-vs-data-engineering-a-guide-for-the-perplexed/](https://analyticsindiamag.com/mlops-vs-data-engineering-a-guide-for-the-perplexed/)  
+
+
+
+[https://twimlai.com/podcast/twimlai/reinforcement-learning-industrial-ai-pieter-abbeel/](https://twimlai.com/podcast/twimlai/reinforcement-learning-industrial-ai-pieter-abbeel/)  
+[https://youtu.be/ILOYNXUYUxA](https://youtu.be/ILOYNXUYUxA)  

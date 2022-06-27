@@ -60,3 +60,13 @@ checks your DSA knowledge as well as OOPs knowledge. Suppose in the given proble
 
 
 [https://medium.com/shoutloudz/system-design-hld-vs-lld-26c717dc244c](https://medium.com/shoutloudz/system-design-hld-vs-lld-26c717dc244c)  
+
+
+
+
+
+[https://mecha-mind.medium.com/ml-system-design-eta-prediction-9dc8000fd86b](https://mecha-mind.medium.com/ml-system-design-eta-prediction-9dc8000fd86b)  
+[https://dzone.com/articles/designing-a-real-time-eta-prediction-system-using](https://dzone.com/articles/designing-a-real-time-eta-prediction-system-using)  
+[https://cloud.google.com/community/tutorials/cloud-iot-enviro-board-workshop](https://cloud.google.com/community/tutorials/cloud-iot-enviro-board-workshop)  
+[https://medium.com/analytics-vidhya/database-normalization-vs-denormalization-a42d211dd891](https://medium.com/analytics-vidhya/database-normalization-vs-denormalization-a42d211dd891)  
+[https://kasvith.me/posts/lets-create-a-simple-lb-go/](https://kasvith.me/posts/lets-create-a-simple-lb-go/)  

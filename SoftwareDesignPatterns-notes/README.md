@@ -126,3 +126,6 @@ When designing systems some patterns can be more resource intensive with more me
 
 
 
+# Links  
+
+[https://medium.com/analytics-vidhya/how-to-create-a-thread-safe-singleton-class-in-python-822e1170a7f6](https://medium.com/analytics-vidhya/how-to-create-a-thread-safe-singleton-class-in-python-822e1170a7f6)  

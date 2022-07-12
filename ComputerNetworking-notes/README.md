@@ -1,6 +1,25 @@
 # ComputerNetworking-notes
 
 
+## Fundamentals  
+
+Building load balancer from scratch  
+system calls  
+network blocking  
+interrupts  
+
+
+[https://medium.com/@openmohan/dns-basics-and-building-simple-dns-server-in-go-6cb8e1cfe461](https://medium.com/@openmohan/dns-basics-and-building-simple-dns-server-in-go-6cb8e1cfe461)  
+[https://datatracker.ietf.org/doc/html/rfc1035](https://datatracker.ietf.org/doc/html/rfc1035)  
+[https://github.com/miekg/dns](https://github.com/miekg/dns)  
+[https://github.com/openmohan/lightdns](https://github.com/openmohan/lightdns)  
+
+
+[https://www.geeksforgeeks.org/interrupts/](https://www.geeksforgeeks.org/interrupts/)  
+[https://binaryterms.com/interrupts-in-computer-architecture.html](https://binaryterms.com/interrupts-in-computer-architecture.html)  
+ 
+
+
 What is a proxy server?
 
     A proxy server, sometimes referred to as a forward proxy, is a server that routes traffic between client(s) and another system, usually external to the network. By doing so, it can regulate traffic according to preset policies, convert and mask client IP addresses, enforce security protocols, and block unknown traffic.
@@ -739,7 +758,7 @@ Network Address Translation
 
 
 
-## Web securitk
+## Web security
 
 
 

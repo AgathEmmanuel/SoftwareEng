@@ -1,5 +1,19 @@
 # SystemDesign-notes
 
+- OOPs  
+- Design Patterns  
+- Software Architecture  
+- Service Oriented Architecture  
+
+
+## Object Oriented Design  
+
+How to know if a software is well designed  
+- did a small code change produce a ripple-effect fro changes elsewhere in the code  
+- was the code hard to reuse  
+- was software difficult to maintain after a release  
+
+
 
 
 

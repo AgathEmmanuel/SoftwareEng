@@ -57,6 +57,8 @@ checks your DSA knowledge as well as OOPs knowledge. Suppose in the given proble
 [Difference between Client Polling vs Server Push in Notifications](https://youtu.be/8D1NAezC-Dk)  
 [Long Polling and how it differs from Push, Poll and SSE - The Backend Engineering Show](https://youtu.be/J0okraIFPJ0)  
 [Designing Notifications Service for Instagram](https://youtu.be/kIP8L-CSl2Y)  
+[Robinhood Stock Exchange System Design | How to Receive Realtime Stock Updates](https://youtu.be/gQfaWHOrITI)  
+
 
 
 [https://medium.com/shoutloudz/system-design-hld-vs-lld-26c717dc244c](https://medium.com/shoutloudz/system-design-hld-vs-lld-26c717dc244c)  
@@ -70,3 +72,6 @@ checks your DSA knowledge as well as OOPs knowledge. Suppose in the given proble
 [https://cloud.google.com/community/tutorials/cloud-iot-enviro-board-workshop](https://cloud.google.com/community/tutorials/cloud-iot-enviro-board-workshop)  
 [https://medium.com/analytics-vidhya/database-normalization-vs-denormalization-a42d211dd891](https://medium.com/analytics-vidhya/database-normalization-vs-denormalization-a42d211dd891)  
 [https://kasvith.me/posts/lets-create-a-simple-lb-go/](https://kasvith.me/posts/lets-create-a-simple-lb-go/)  
+
+
+

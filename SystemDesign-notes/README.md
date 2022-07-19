@@ -272,6 +272,12 @@ Algorithm for place locator
 [Backend Engineering Intermediate](https://youtube.com/playlist?list=PLQnljOFTspQWGuRmwojJ6LiV0ejm6eOcs)  
 [Backend Engineering Advanced](https://youtube.com/playlist?list=PLQnljOFTspQUybacGRk1b_p13dgI-SmcZ)  
 
+[System Design Full Tutorial for Beginners | Learn System Design from Scratch | System Architecture](https://youtu.be/P_eh1b6vE-4)  
+[CAP Theorem Simplified 2021 | System Design Fundamentals | Distributed Systems | Scaler Academy](https://youtu.be/8UryASGBiR4)  
+[What is Database Sharding?](https://youtu.be/5faMjKuB9bc)  
+
+
+
 
 [Scaling Push Messaging for Millions of Devices @Netflix](https://youtu.be/6w6E_B55p0E)
 [Difference between Client Polling vs Server Push in Notifications](https://youtu.be/8D1NAezC-Dk)
@@ -287,8 +293,18 @@ Algorithm for place locator
 [What I Wish I Had Known Before Scaling Uber to 1000 Services • Matt Ranney • GOTO 2016](https://youtu.be/kb-m2fasdDY)  
 [Streaming a Million Likes/Second: Real-Time Interactions on Live Video](https://youtu.be/yqc3PPmHvrA)  
 
-
+[System Design: Real Time Video Conferencing service (Skype/Zoom/Facetime)](https://youtu.be/bCgIoi3A0Mc)  
+[System Design Mock Interview: Design Facebook Messenger](https://youtu.be/uzeJb7ZjoQ4)  
 [System Design Mock Interview: Design TikTok ft. Google TPM](https://youtu.be/Z-0g_aJL5Fw)  
+[Facebook System Design Interview: Design an Analytics Platform (Metrics & Logging)](https://youtu.be/kIcq1_pBQSY)  
+[Zoom System Design | WhatsApp / FB Video Calling System Design | System Design Interview Question](https://youtu.be/G32ThJakeHk)  
+[System Design Interview: Design Netflix](https://youtu.be/VvZf7lISfgs)  
+[Facebook System Design Interview: Design Twitter](https://youtu.be/QF8JNSoJD8E)  
+[System Design Mock Interview: Design Facebook Messenger](https://youtu.be/uzeJb7ZjoQ4)  
+
+[Preparing For A Data Engineering Interview: How To Design A Data Warehouse For.A Food Delivery App](https://youtu.be/NPSQN9cRL3s)  
+[Machine Learning System Design (YouTube Recommendation System)](https://youtu.be/0nu83yWqnNQ)  
+
 
 
 

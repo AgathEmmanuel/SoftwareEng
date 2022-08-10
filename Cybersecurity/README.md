@@ -162,3 +162,5 @@ In the Linux world, Administrators use filtering commands every day to parse log
 [ExpDev Bind TCP Shellcode” by bigb0ss ](https://link.medium.com/GM3TRLxdtcb)  
 [Hack the Box cronos Writeup](https://medium.com/swlh/hack-the-box-cronos-writeup-w-o-metasploit-7b9453e557d0)  
 
+
+[https://www.codeproject.com/articles/586000/networking-and-socket-programming-tutorial-in-c](https://www.codeproject.com/articles/586000/networking-and-socket-programming-tutorial-in-c)  

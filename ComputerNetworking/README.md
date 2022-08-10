@@ -728,6 +728,11 @@ Now these two systems both exist on the 10.0.0.x/24 layer 2 network (via the VXL
 though they are connected by a layer 3 IP fabric. It’s also worth noting that the hosts are completely isolated from the underlying layer 3 network.  
 
 
+
+
+
+
+
 Links:  
 
 https://www.actualtechmedia.com/wp-content/uploads/2018/01/CUMULUS-Understanding-Linux-Internetworking.pdf  
@@ -758,21 +763,9 @@ Network Address Translation
 
 
 
-## Web security
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Using Curl telnet to test port connectivity](https://kb.vmware.com/s/article/2097039)  
+curl -v telnet://target ip address:desired port number
 
 
 

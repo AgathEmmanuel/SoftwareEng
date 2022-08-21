@@ -6,19 +6,52 @@
 
 
 
-
-[https://www.coursera.org/specializations/fpga-design](https://www.coursera.org/specializations/fpga-design)  
-[https://www.coursera.org/learn/comparch](https://www.coursera.org/learn/comparch)  
-[https://www.coursera.org/learn/build-a-computer](https://www.coursera.org/learn/build-a-computer)  
+## Computer architecture of complex modern microprocessors  
 
 
-
-computer architecture of complex modern microprocessors  
-
-
-
+microcode  
 
 architecture, micro-architecture and instruction set architectures  
+
+basic concept of pipeline and two different types of hazards  
+
+control hazards and the motivation for caches
+
+cache characteristics and basic superscalar architecture
+
+common issues for superscalar architecture  
+
+different kinds of architectures for out-of-order processors  
+
+common methods used to improve the performance of out-of-order processors including register renaming and memory disambiguation  
+
+basic concept of very long instruction word (VLIW) processors  
+
+common methods used to improve VLIW performance  
+
+advanced mechanisms used to improve cache performance  
+
+memory management and protection  
+
+vector processor and optimizations for vector processors  
+
+different types of multithreading  
+
+parallelism, consistency models, and basic parallel programming techniques  
+
+solutions for the consistency problem in parallel programming  
+
+implementation of small multiprocessors  
+
+design of interconnects for a multiprocessor  
+
+design of interconnects for multiprocessor and network topology  
+
+directory protocol used for coherence on large multiproccesors  
+
+
+
+
 
 
 
@@ -34,7 +67,7 @@ architecture, micro-architecture and instruction set architectures
 
 
 
-CPU RTL/Microarchitecture Engineer
+---- CPU RTL/Microarchitecture Engineer
 Tenstorrent Inc.
 
 The Tenstorrent team combines technologists from different disciplines who come together with a shared passion for AI and a deep desire to build great products. We value collaboration, curiosity, and a commitment to solving hard problems.
@@ -69,7 +102,7 @@ Experience and qualifications:
 
 
 
-CPU Architect - AI Silicon 
+---- CPU Architect - AI Silicon 
 Tenstorrent
 
 AI is redefining the computing paradigm. The new paradigm computation demand is incommensurable with the existing software and hardware criteria. The best AI solutions require unifying the innovations in the software programming model, compiler technology, heterogenous computation platform, networking technology, and semiconductor process and packaging technology. Tenstorrent drives the innovations through holistic views of each technological component in software and hardware to unify them to create the best AI platform.
@@ -101,7 +134,78 @@ Experience and qualifications:
 
 
 
-Senior Engineer/Lead SoC microarchitecture and Logic Design
+
+
+---- CPU Verification Lead
+Arm
+About the role
+Come break new ground in design verification. This is a rare opportunity to join the Chandler-based CPU design verification team, which is part of Arm's global CPU group, as an experienced Design Verification Engineer/Manager. Our diverse engineering-centric group defines, designs, and validates Arm processor IP - the brains in billions of diverse electronic devices.
+As a lead engineer here, you join a talented group of engineers responsible for verification of the next-generation Cortex-A or Cortex-M class CPU designs. In this role you will be able to push through the boundaries of your technical knowledge relating to groundbreaking Arm processors.
+As an expert —think Staff/Principal type- on our diverse team of verification engineers, you take on the latest CPU microarchitecture design verification. You will be a part of a growing organization with a validated business model and a strong plan for continued future growth. Your team uses the latest tools and methodologies with an eye for innovation and creative problem solving.
+WhatwillIbeaccountablefor?
+Our team owns the design verification for one or more functional blocks, and we are responsible for the quality of delivery throughout all related engineering project phases. Including:
+
+    Lead a high performing verification team to excellence
+    Develop SystemVerilog UVM and/or formal verification for the block-level, functional verification of units
+    Build and maintain detailed verification plans, generate and run test cases on logic simulation models
+    Debug functional errors in the RTL model, using simulation tools, debug tools with an in-depth understanding of the architecture and RTL design
+    Define and implement functional and statistical coverage, and improve the testbench to ensure coverage closure
+
+Education & Qualifications:
+You should have a Bachelor Degree or Master Degree in Computer Science, Electrical Engineering with a GPA of 3.0 or higher
+Essential Skills & Experience
+
+    A minimum of 10 years of experience in pre-silicon verification
+    CPU microarchitecture experience including knowledge of pipeline, fetch, issue, Load/Store, L2 cache and MMU
+    Previous experience in verifying such units using simulation and/or formal verification methods as well as experience with functional coverage driven verification methods
+    Proven software engineering skills including understanding of object-oriented programming, data structures, and algorithms
+
+Desired Skills & Experience
+
+    You bring proven CPU microarchitecture experience and you have passion for continuing to grow your expertise in CPU microarchitecture including both familiarity with and a curiosity about Branch prediction, instruction fetch, in-order or out-of-order execution, and advanced memory system.
+    You have a deep understanding of SystemVerilog and UVM, and you know how they are used to build flexible and reusable testbenches
+    The love of sophisticated software engineering such as design patterns, profiling, unit testing, and programming in multiple languages
+    You strive to achieve wining solutions while you build positive relationships which are built upon mutual trust, open communication and sharing of information and success.
+    The drive for continuous improvement through spotting opportunities and seeking the views of others.
+    You listen to different perspectives, evaluate, persuade and carefully craft your work to deliver impactful results
+
+
+
+
+
+
+
+
+---- Processor Performance Tuning, Correlation, Verification Engineer
+Apple
+Key Qualifications
+
+    The ideal candidate should have 2+ years of performance modeling, processor verification, or RTL design experience
+    In-depth knowledge of digital logic design, CPU architecture and microarchitecture
+    Experience in performance modeling for advanced CPU designs
+    Experience in developing performance test plans and writing/debugging assembly tests for performance correlation and verification
+    Good programming skills in assembly, C/C++, Verilog, System Verilog, and scripting
+    Experience in silicon validation is a plus
+    Should be a team player with excellent communication skills and able to work independently on the owned unit
+
+Description
+
+As a Chip Performance Engineer owning the verification of a certain area of performance features in a chip design, you will have responsibilities as follows: 
+
+• Work closely with architects and RTL designers on verifying the performance features of the design and correlating with performance models 
+• Work closely with software and application developers on identifying performance bottlenecks and tuning the software 
+• Develop test plans and test infrastructure/tools for performance tuning, correlation, and verification • Improve and maintain the architectural performance models 
+• Develop tests in assembly, C/C++, or vectors to debug and correlate the RTL and performance model 
+• Develop C or Verilog-based checkers for verifying the performance features 
+• Develop coverage monitors and analyze coverage to ensure all performance features are covered
+
+
+
+
+
+
+
+---- Senior Engineer/Lead SoC microarchitecture and Logic Design
 
 Intel
 
@@ -155,7 +259,7 @@ Xeon and Networking Engineering (XNE) focuses on the development and integration
 
 
 
-RTL Micro-architecture Design Engineer
+---- RTL Micro-architecture Design Engineer
 Save
 Samsung Semiconductor 
 
@@ -183,7 +287,7 @@ Work within the GPU/CPU team to drive power reduction including estimation, anal
 
 
 
-RTL Design Engineer, CPU
+---- RTL Design Engineer, CPU
 SiFive Inc
 
 About SiFiveAs the pioneers who introduced RISC-V to the world, SiFive is transforming the future of compute by bringing the limitless potential of RISC-V to the highest performance and most data-intensive applications in the world. SiFive’s unrivaled compute platforms have enabled leading technology companies around the world to innovate, optimize, and deliver the most advanced solutions of tomorrow across every market segment of chip design, including artificial intelligence, machine learning, automotive, datacenter, mobile, and consumer. With SiFive, the future of RISC-V has no limits.
@@ -216,7 +320,7 @@ Requirements:• 2 to 8 yrs of experience in RTL design and microarchitecture de
 
 
 
-RTL Engineer - Autopilot AI (Dojo)
+---- RTL Engineer - Autopilot AI (Dojo)
 Tesla
 
 The Role
@@ -261,3 +365,11 @@ Requirements
 
 [https://www.javatpoint.com/computer-organization-and-architecture-tutorial](https://www.javatpoint.com/computer-organization-and-architecture-tutorial)  
 [https://www.javatpoint.com/compiler-tutorial](https://www.javatpoint.com/compiler-tutorial)  
+
+
+[https://www.coursera.org/specializations/fpga-design](https://www.coursera.org/specializations/fpga-design)  
+[https://www.coursera.org/learn/comparch](https://www.coursera.org/learn/comparch)  
+[https://www.coursera.org/learn/build-a-computer](https://www.coursera.org/learn/build-a-computer)  
+
+
+

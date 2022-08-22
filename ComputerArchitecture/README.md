@@ -367,6 +367,7 @@ Requirements
 [https://www.javatpoint.com/compiler-tutorial](https://www.javatpoint.com/compiler-tutorial)  
 
 
+> Courses  
 [https://www.coursera.org/specializations/fpga-design](https://www.coursera.org/specializations/fpga-design)  
 [https://www.coursera.org/learn/comparch](https://www.coursera.org/learn/comparch)  
 [https://www.coursera.org/learn/build-a-computer](https://www.coursera.org/learn/build-a-computer)  

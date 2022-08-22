@@ -96,4 +96,7 @@ Infamous Mission Critical System Failures - Root Cause Analysis
 [https://www.coursera.org/specializations/real-time-embedded-systems](https://www.coursera.org/specializations/real-time-embedded-systems)  
 [https://www.coursera.org/learn/introduction-embedded-systems](https://www.coursera.org/learn/introduction-embedded-systems)  
 [https://www.coursera.org/learn/embedded-software-hardware](https://www.coursera.org/learn/embedded-software-hardware)  
+[https://www.coursera.org/specializations/embedded-systems-security](https://www.coursera.org/specializations/embedded-systems-security)  
 
+[https://www.coursera.org/specializations/embedding-sensors-motors](https://www.coursera.org/specializations/embedding-sensors-motors)  
+[https://www.coursera.org/specializations/developing-industrial-iot](https://www.coursera.org/specializations/developing-industrial-iot)  

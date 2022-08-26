@@ -1,0 +1,224 @@
+
+105 STL algorithms in less than an hour
+https://www.youtube.com/watch?v=bFSnXNIsK4A
+
+
+
+
+CPP STL algorithms
+
+-algos on sets
+-movers
+-value modifiers
+-raw memory
+-structure changers
+-permutations
+-queries
+
+
+"""""""""""NOTE""""""""""""""""""""""""""""""""""""""
+"std" a namespace. The "::" operator is the "scope" operator
+. It tells the compiler which class/namespace to look in for
+ an identifier
+.
+
+So std::cout tells the compiler that you want the "cout" ide
+ntifier, and that it is in the "std" namespace.
+
+If you just said cout then it will only look in the global n
+amespace. Since cout isn't defined in the global namespace, 
+it won't be able to find it, and it will give you an error.
+
+
+using namespace std; tell the compiler "take everything that
+'s in the std namespace and dump it in the global namespace"
+. This allows you to use cout without the std:: prefix, but 
+it increases the probability for name conflicts, since a bun
+ch of extra names that you didn't expect also got added to t
+he global namespace, and that might butt heads with some of 
+your own names.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""" 
+
+
+HEAPS
+std::make_heap(begin(numbers),end(numbers))
+std::push_heap(begin(numbers),end(numbers))
+std::pop_heap(begin(numbers),end(numbers))
+
+
+SORTING
+sort
+partial_sort
+nth_element
+sort_heap
+inplace_merge
+
+
+PARTITIONING
+partition
+
+
+PERMUTATIONS
+rotate
+shuffle
+next_permutation
+prev_permutation 
+stable_*
+stable_sort
+stable_parition
+is_*
+is_sorted
+is_partitioned
+is_heap
+is_*_until
+is_sorted_until
+is_partitioned_until
+is_heap_until
+
+
+QUERIES
+NUMERIC ALGORITHMS
+count
+accumulate/(transform_)reduce
+partial_sum
+(transform_)inclusive_scan
+(transform_)exclusive_scan
+inner_product
+adjacent_difference
+sample
+QUERYING A PROPERTY
+all_of
+any_of
+none_of
+QUERYING A PROPERTY ON 2 RANGES
+equal
+lexicographical_compare
+mismatch
+std::pair<iterator,iterator>	
+
+
+SEARCHING A VALUE
+NOT SORTED
+find
+adjacent_find
+SORTED
+equal_range
+lower_bound
+upper_bound
+binary_search
+SEARCHING A RANGE
+search
+find_end
+find_first_of
+SEARCHING A RELATIVE VALUE
+max_element
+minmax_element
+min_element
+
+ALGOS ON SETS
+//A and B are sorted
+std::set_difference(begin(A),end(B);
+		    begin(B),end(B),
+		    std::back_inserter(results));
+std::set_union
+std::includes
+std::set_intersection
+std::set_symmetric_difference
+std::includes
+std::merge
+
+
+MOVERS
+std::copy(first,last,out);
+std::copy_backward
+std::move_backward
+
+
+
+
+VALUE MODIFIERS
+std::fill(first,last,42);
+std::generate(first,last,f);
+std::iota(first,last,42)
+std::replace(first,last,42,43);
+
+
+STRUCTURE CHANGERS
+std::remove(begin(collection),end(collection),99);
+collection.erase(std::remove(begin(collection),end(collection,99),end(collection));
+erase(collection,99);
+std::unique(begin(collection),end(collection));
+collection.erase(std::unique(begin(collection),end(collection,99),end(collection));
+
+_COPY
+*_copy
+remove_copy
+unique_copy
+reverse_copy
+rotate_copy
+replace_copy
+partition_copy
+partial_sort_copy
+
+_IF
+*_if
+find_if
+find_if_not
+count_if
+remove_if
+remove_copy_if
+replace_if
+replace_copy_if
+copy_if
+
+
+
+TRANSFORM
+std::transform(begin(collection),end(collection),
+	       std::back_iserter(results),
+		f);
+std::transform(begin(collection),end(collection),
+	       begin(ys),
+	       std::back_iserter(results),
+		f);
+
+
+FOR_EACH
+std::for,each(begin(collection),end(collection),f);
+
+
+
+RAW MEMORY
+fill
+copy
+move
+uninitialized_fill
+uninitialized_copy
+uninitialized_move
+uninitialized_default_construct
+uninitialized_value_construct
+std::uninitialized_fill(first,last,42);
+std::destroy(first,last);
+
+_N
+fill_n
+copy_n
+move_n
+generate_n
+search_n
+for_each_n
+uninitialized_fill_n
+uninitialized_copy_n
+uninitialized_move_n
+uninitialized_default_construct_n
+uninitialized_value_construct_n
+destroy_n
+
+
+
+BOOST.algorithms
+gather
+sort_subrange
+is_palindrome
+boyer_moore
+one_of
